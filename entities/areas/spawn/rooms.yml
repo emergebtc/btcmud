@@ -1,9 +1,9 @@
 - 
   title: 
-    en: 'Test'
-    es: 'ES - Test'
+    en: 'Plaza Intramuros'
+    es: 'Plaza'
   description: 
-    en: 'You are in the test room. there isn''t much here'
+    en: 'You are in the plaza. You see the rest of the bustling city from here.'
     es: 'ES-You are in the test room. there isn''t much here'
   exits: 
     - 
@@ -19,7 +19,7 @@
   area: 'test'
 - 
   title: 
-    en: 'Plain room'
+    en: 'The Vicencio House'
     es: 'ES - Plain room'
   location: 2
   description: 
